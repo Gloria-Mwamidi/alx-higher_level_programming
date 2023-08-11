@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
     from calculator_1 import add, sub, mul, div
+    """Print out computations of sum, division, multiplication and subtraction"""
     a = 10
     b = 5
 
