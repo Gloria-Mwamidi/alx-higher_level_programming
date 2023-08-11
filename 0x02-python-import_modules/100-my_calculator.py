@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 if __name__ == "__main__":
-    """Handles arithmetic functions imported from calculator_1"""
+    """Handles arithmetic imported from calculator_1"""
     import sys
     from calculator_1 import div, sub, add, mul
 
@@ -25,4 +25,3 @@ if __name__ == "__main__":
         sys.exit(1)
 
     print(f"{a} {operator} {b} = {result}")
-
