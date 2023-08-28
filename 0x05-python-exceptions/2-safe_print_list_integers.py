@@ -1,10 +1,8 @@
 #!/usr/bin/python3
 def safe_print_list_integers(my_list=[], x=0):
-    """
-    a function that prints the first x elements of
+    """a function that prints the first x elements of
     a list and only integers.
-    Returns the real number of integers printed
-    """
+    Returns the real number of integers printed"""
     result = 0
     for i in range(0, x):
         try:
