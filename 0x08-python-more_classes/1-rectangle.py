@@ -2,6 +2,7 @@
 
 """Class rectangle that defines width and height"""
 
+
 class rectangle:
     def __init__(self, width=0, height=0):
         self.__width = width
