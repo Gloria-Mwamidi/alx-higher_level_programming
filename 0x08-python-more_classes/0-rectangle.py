@@ -2,6 +2,6 @@
 
 """Creating and empty rectangle class"""
 
-class rectangle:
+class Rectangle:
     pass
 
