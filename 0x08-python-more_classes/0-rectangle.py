@@ -4,3 +4,4 @@
 
 class rectangle:
     pass
+
