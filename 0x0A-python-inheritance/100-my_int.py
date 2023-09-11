@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-"""A class MyIntt that inherits from int"""
+"""A class MyInt that inherits from int"""
 
 
-class MyInt(Int):
+class MyInt(int):
     """Class MyInt inherited from Int"""
     def __eq__(self, other):
         """Magic inheritance of the equal sign"""
