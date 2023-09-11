@@ -10,9 +10,9 @@ class Rectangle(BaseGeometry):
     def __init__(self, width, height):
         """Initialization of class Rectangle"""
         self.integer_validator("width", width)
-        self.__width = width
+        self._width = width
         self.integer_validator("height", height)
-        self.__height = height
+        self._height = height
 
     def __str__(self):
         """returns th rectangles descreption"""
