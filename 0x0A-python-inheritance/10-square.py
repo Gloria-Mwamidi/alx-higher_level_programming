@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Defining a class square and computing area 
+"""Defining a class square and computing area
 of a square inherited from the class
 Rectangle"""
 Rectangle = __import__("9-rectangle").Rectangle
@@ -14,4 +14,4 @@ class Square(Rectangle):
 
     def area(self):
         """returns the area"""
-        return self._size **2
+        return self._size ** 2
