@@ -1,4 +1,4 @@
-#!/usr/bin/pyhton3
+#!/usr/bin/python3
 """A function that writes a string to utf8 and
 returns the number of strings written, creates it
 if not exisitng and overrides existing texts"""
