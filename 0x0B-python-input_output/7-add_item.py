@@ -9,8 +9,8 @@ in a file named add_item.json"""
 import sys
 
 save_to_json_file = __import__('5-save_to_json_file').save_to_json_file
-loads_from_json_file = \
-        __import__('6-loads_from_json_file').loads_from_json_file
+loads_from_json_file = __import__('6-loads_from_json_file')
+.loads_from_json_file
 
 try:
     info = loads_from_jason_file("add_item.json")
