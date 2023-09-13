@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""Write a class Student that defines a student
-by: (based on 10-student.py)
+"""
+Write a class Student that defines a student by: (based on 10-student.py)
 
 Public instance attributes:
 first_name
@@ -18,7 +18,8 @@ attributes of the Student instance:
 
 You can assume json will always be a dictionary
 A dictionary key will be the public attribute name
-A dictionary value will be the value of the public attribute"""
+A dictionary value will be the value of the public attribute
+"""
 
 
 class Student:
