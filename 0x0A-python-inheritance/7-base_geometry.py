@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" Defines class BaseGeometry"""
+""" A function Defines class BaseGeometry"""
 
 
 class BaseGeometry:

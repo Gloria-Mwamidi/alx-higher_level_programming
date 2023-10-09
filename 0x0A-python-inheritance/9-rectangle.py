@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""A class Rectangle that inherites from
+"""A function of class Rectangle that inherites from
 BaseGeometry and the area() implemented"""
 BaseGeometry = __import__('7-base_geometry').BaseGeometry
 

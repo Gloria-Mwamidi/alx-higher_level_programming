@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""A class MyInt that inherits from int"""
+"""Function  that defines A class MyInt that inherits from int"""
 
 
 class MyInt(int):

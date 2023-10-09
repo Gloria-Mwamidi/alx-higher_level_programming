@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-"""Defining a class square and computing area
-of a square inherited from the class
+"""Defining function that defines a class square
+and computing area of a square inherited from the class
 Rectangle"""
 Rectangle = __import__("9-rectangle").Rectangle
 

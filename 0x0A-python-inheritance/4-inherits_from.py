@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Defines a fuction that returns true idf the object is an
+"""Defines a fuction that returns true if the object is an
 instance of a class inherited directly or
 indirectly otherwise returns false"""
 
