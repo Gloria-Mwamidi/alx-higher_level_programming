@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-"""List all available variables and methods of an object"""
+""" A function that returns the List of all available
+variables and methods of an object"""
 
 
 def lookup(obj):
